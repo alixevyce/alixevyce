@@ -2,24 +2,30 @@
 
 **`Desenvolvedora Front-End`**
 
-Apaixonada por **tecnologia** e por criar **experiências digitais**. ✨  
-Estou cursando **Sistemas de Informação na Unisinos** e tenho formação técnica em **Desenvolvimento de Sistemas (Senac)**, onde tive contato com **Java, SQL e integração de sistemas**.  
-Aqui no GitHub você vai encontrar meus **projetos pessoais e acadêmicos**, com foco em **Front-end, UX/UI e também estudos em Back-end e arquitetura de software**.
+Sou estudante de **Sistemas de Informação (Unisinos)** e formada em **Desenvolvimento de Sistemas (Senac).**
+Estou sempre explorando novas formas de criar interfaces e experiências digitais, principalmente em **Front-end e UX/UI**, mas também estudando **Back-end e arquitetura de software.**
+Este espaço é onde compartilho meus **projetos pessoais e acadêmicos**, registrando minha evolução como desenvolvedora. ✨
 
 ---
 
 ### 🚀 Tecnologias que uso e estudo  
 
 <p align="left">
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
   <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>  
+  <img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="SASS" title="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="Git" title="Git e GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
 
 ---
 
