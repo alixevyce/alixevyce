@@ -5,8 +5,9 @@
 **Desenvolvedora Front-End**
 
 </div>
+Sou estudante de **Sistemas de Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais.
 
-Sou estudante de **Sistemas de Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais. Tenho especial interesse por **Front-end, UX/UI e visualização de dados**, buscando criar experiências digitais funcionais, intuitivas e visualmente agradáveis.
+Tenho especial interesse por **Front-end, UX/UI e visualização de dados**, buscando criar experiências digitais funcionais, intuitivas e visualmente agradáveis.
 
 Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
 
@@ -26,6 +27,7 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
   <img alt="Tailwind CSS" title="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Figma" title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
 </div>
@@ -48,10 +50,23 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliceunicc@gmail.com)
 
 </div>
+
 ---
 
-<picture align="center">
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+--- 
+
+<div align="center">
+
+**Confira alguns dos meus projetos abaixo ⬇️**
+
+</div>
