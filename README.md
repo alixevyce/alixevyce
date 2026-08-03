@@ -43,14 +43,6 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 ---
 
-## 🚀 Projetos principais
-
-- **Warranty Hub**
-- **Home Dashboard**
-- **Bookshelf**
-
----
-
 ### 📬 Contato
 
 
