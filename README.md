@@ -44,6 +44,8 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 ### 📬 Contato
 
+---
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alixevyce)
@@ -64,11 +66,4 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 </div>
 
-
-
-<div align="center">
-
-**Projetos em destaque ⬇️**
-
-</div>
 
