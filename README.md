@@ -10,7 +10,7 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### 💻 Tecnologias & ferramentas
 
 <div align="center">
 
