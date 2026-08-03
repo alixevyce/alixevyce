@@ -2,9 +2,8 @@
 
 **`Desenvolvedora Front-End`**
 
-Sou estudante de **Sistemas de Informação (Unisinos)** e formada em **Desenvolvimento de Sistemas (Senac).**
-Estou sempre explorando novas formas de criar interfaces e experiências digitais, principalmente em **Front-end e UX/UI**, mas também estudando **Back-end e arquitetura de software.**
-Este espaço é onde compartilho meus **projetos pessoais e acadêmicos**, registrando minha evolução como desenvolvedora. ✨
+Sou estudante de **Sistemas de Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais. Tenho especial interesse por **Front-end, UX/UI e visualização de dados**, sempre buscando unir organização, usabilidade e um design limpo.
+Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
 
 ---
 
