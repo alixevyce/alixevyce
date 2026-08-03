@@ -1,8 +1,12 @@
+<div align="center">
+
 # Olá, eu sou a Alice! 🌸
 
-**`Desenvolvedora Front-End`**
+**Desenvolvedora Front-End**
 
-Sou estudante de **Sistemas de Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais. Tenho especial interesse por **Front-end, UX/UI e visualização de dados**, sempre buscando unir organização, usabilidade e um design limpo.
+</div>
+
+Sou estudante de **Sistemas de Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais. Tenho especial interesse por **Front-end, UX/UI e visualização de dados**, buscando criar experiências digitais funcionais, intuitivas e visualmente agradáveis.
 
 Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
 
@@ -28,10 +32,22 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 ---
 
+### 🌱 Atualmente
+
+- Estudando **Next.js, TypeScript e PostgreSQL**
+- Desenvolvendo aplicações web focadas em produtividade e organização
+- Construindo meu portfólio de produtos digitais
+
+---
+
 ### 📬 Contato
 <div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alixevyce)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-eibe)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliceunicc@gmail.com)
 
 </div>
 
