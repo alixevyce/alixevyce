@@ -8,6 +8,7 @@
 
 Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas reais em aplicações web funcionais, bem projetadas e intuitivas. Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
 
+---
 
 ### 💻 Tecnologias & Ferramentas
 
@@ -32,6 +33,8 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 </p>
 
 </div>
+
+---
 
 ### 📌 Em desenvolvimento
 
@@ -60,6 +63,7 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 </picture>
 
 </div>
+
 
 
 <div align="center">
