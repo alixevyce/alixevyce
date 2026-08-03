@@ -6,7 +6,10 @@
 
 </div>
 
-Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais. Tenho especial interesse por **Front-end e UX/UI**, buscando criar experiências digitais funcionais, intuitivas e interfaces bem construídas.
+Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas do dia a dia em produtos digitais.
+
+Tenho especial interesse por **Front-end e UX/UI**, buscando criar experiências digitais funcionais, intuitivas e interfaces bem construídas.
+
 Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
 
 ---
@@ -36,11 +39,20 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 - Estudando **Next.js, TypeScript e PostgreSQL**
 - Desenvolvendo aplicações web focadas em produtividade e organização
-- Construindo meu portfólio 
+- Construindo meu portfólio de projetos
+
+---
+
+<div align="center">
+
+**Confira alguns dos meus projetos abaixo ⬇️**
+
+</div>
 
 ---
 
 ### 📬 Contato
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alixevyce)
@@ -49,6 +61,8 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 </div>
 
+---
+
 <div align="center">
 
 <picture>
@@ -56,12 +70,5 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
-
-<div align="center">
-
-## Confira alguns dos meus projetos abaixo ⬇️
 
 </div>
