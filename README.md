@@ -36,7 +36,7 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 - Estudando **Next.js, TypeScript e PostgreSQL**
 - Desenvolvendo aplicações web focadas em produtividade e organização
-- Construindo meu portfólio de produtos digitais
+- Construindo meu portfólio 
 
 ---
 
@@ -59,8 +59,9 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 </div>
 
+
 <div align="center">
 
-**Confira alguns dos meus projetos abaixo ⬇️**
+## **Confira alguns dos meus projetos abaixo ⬇️**
 
 </div>
