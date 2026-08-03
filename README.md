@@ -6,7 +6,7 @@
 
 </div>
 
-Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas reais em aplicações web funcionais, bem projetadas e intuitivas. Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
+Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvolvimento de Sistemas (Senac)**. Atualmente foco no desenvolvimento de aplicações web modernas com **React, Next.js e TypeScript**, transformando problemas reais em soluções funcionais, bem projetadas e intuitivas. Este repositório reúne meus projetos, estudos e experimentos ao longo da minha evolução como desenvolvedora. ✨
 
 ---
 
@@ -36,15 +36,23 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 ---
 
-### 📌 Em desenvolvimento
+### 📌 Foco atual
 
 - Aplicações web focadas em produtividade e organização
 - Construindo meu portfólio de projetos
 
+---
+
+## 🚀 Projetos principais
+
+- **Warranty Hub**
+- **Home Dashboard**
+- **Bookshelf**
+
+---
 
 ### 📬 Contato
 
----
 
 <div align="center">
 
