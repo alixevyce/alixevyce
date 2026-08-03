@@ -29,24 +29,6 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 ---
 
-### 📊 Estatísticas  
-
-<p>
-  <img 
-    alt="Alice GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=alixevyce&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    alt="Alice Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixevyce&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>  
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake-dark.svg">
