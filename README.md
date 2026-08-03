@@ -49,6 +49,8 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 </div>
 
+---
+
 <div align="center">
 
 <picture>
@@ -61,6 +63,7 @@ Sou estudante de Sistemas de **Informação (Unisinos)** e técnica em **Desenvo
 
 <div align="center">
 
-**Confira alguns dos meus projetos abaixo ⬇️**
+## **Confira alguns dos meus projetos abaixo ⬇️**
 
 </div>
+
