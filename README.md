@@ -10,7 +10,9 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 ### 🚀 Tecnologias que uso e estudo  
 
-<p align="left">
+<div align="center">
+
+<p>
   <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,6 +24,17 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
+</div>
+
+---
+
+### 📬 Contato
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-eibe)
+
+</div>
+
 ---
 
 <picture align="center">
@@ -29,9 +42,3 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alixevyce/alixevyce/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alice-eibe])
