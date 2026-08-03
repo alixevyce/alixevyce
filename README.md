@@ -34,4 +34,4 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/otto-schmitz-13b48322b/](https://www.linkedin.com/in/alice-eibe))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alice-eibe])
