@@ -49,7 +49,6 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 </div>
 
----
 <div align="center">
 
 <picture>
@@ -59,7 +58,7 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 </picture>
 
 </div>
---- 
+
 <div align="center">
 
 **Confira alguns dos meus projetos abaixo ⬇️**
