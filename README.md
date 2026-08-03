@@ -62,6 +62,6 @@ Este repositório reúne meus projetos, estudos e experimentos ao longo da minha
 
 <div align="center">
 
-## **Confira alguns dos meus projetos abaixo ⬇️**
+## Confira alguns dos meus projetos abaixo ⬇️
 
 </div>
